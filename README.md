@@ -40,7 +40,7 @@ ollama list
    ```bash
    python app.py
    ```
-   Buka **http://127.0.0.1:7860**, lalu **screenshot UI** untuk upload ke form.
+   Buka **http://127.0.0.1:7860**
 
 ---
 ## Struktur Proyek
